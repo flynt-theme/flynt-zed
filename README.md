@@ -20,9 +20,10 @@ Then select it via `zed: open theme selector`.
 
 ## Building from source
 
-Themes are generated from [`theme.json.tmpl`](theme.json.tmpl) using [strike](https://github.com/flynt-theme/flynt/tree/main/strike).
+Themes are generated from [`theme.json.tmpl`](theme.json.tmpl) using [strike](https://github.com/flynt-theme/strike).
 
 ```sh
+brew tap flynt-theme/tap && brew install strike
 strike build theme.json.tmpl --out themes/
 ```
 
