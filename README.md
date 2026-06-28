@@ -4,9 +4,7 @@ Warm tones. Zero visual noise. - [Flynt](https://flynt-theme.github.io/flynt) fo
 
 ## Install
 
-Search for **Flynt** in the extension marketplace: `zed: extensions` - search "Flynt" - Install.
-
-Then open the theme picker (`zed: open theme selector`) and choose **Flynt Dark** or **Flynt Light**.
+> Pending approval in the Zed extension marketplace.
 
 ### Manual
 
