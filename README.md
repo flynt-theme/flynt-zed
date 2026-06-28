@@ -4,7 +4,7 @@
   <h1 align="center">Flynt for Zed</h1>
 </p>
 
-<p align="center">Warm undertones in dark and light — <a href="https://flynt-theme.github.io/flynt">Flynt</a> for <a href="https://zed.dev">Zed</a> editor.</p>
+<p align="center">Warm flint. Zero visual noise — <a href="https://flynt-theme.github.io/flynt">Flynt</a> for <a href="https://zed.dev">Zed</a> editor.</p>
 
 <br />
 
