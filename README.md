@@ -8,6 +8,8 @@ Warm tones. Zero visual noise. - [Flynt](https://flynt-theme.github.io/flynt) fo
 
 ### Manual
 
+The built theme files are in [`themes/`](themes/).
+
 ```sh
 mkdir -p ~/.config/zed/themes
 cp themes/flynt-dark.json ~/.config/zed/themes/
